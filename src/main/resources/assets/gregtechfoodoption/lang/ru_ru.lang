@@ -1,15 +1,15 @@
-metaitem.phycomyces.culture.name=Культура Фикомицес Блейкслианус
+metaitem.phycomyces.culture.name=Культура Phycomyces Blakesleeanus
 metaitem.component.corn.ear.name=Кукурузный початок
 metaitem.component.corn.dried_ear.name=Сушеный кукурузный початок
-metaitem.component.corn.cob.name=Кукурузный початок
+metaitem.component.corn.cob.name=Кукурузная кочерыжка
 metaitem.component.corn.flavored_flake.name=Ароматизированные хлопья попкорна
 metaitem.component.bag.name=Бумажный пакет
-metaitem.food.popcorn_bag.name=Сумка для попкорна
-metaitem.food.popcorn_bag.tooltip=На вкус как вкусные химические вещества со вкусом масла.
-metaitem.2-aminopyridine_dust.name=2-аминопиридин
-metaitem.isopropylmagnesium_chloride_dust.name=Изопропилмагния хлорид
-metaitem.beta_carotene_dust.name=β-каротин
-metaitem.phycomyces_blakesleeanus_dust.name=Фикомицес Блейкслианус
+metaitem.food.popcorn_bag.name=Пакет попкорна
+metaitem.food.popcorn_bag.tooltip=На вкус как восхитительные химикаты с ароматом масла.
+metaitem.2-aminopyridine_dust.name=2-Аминопиридин
+metaitem.isopropylmagnesium_chloride_dust.name=Хлорид изопропилмагния
+metaitem.beta_carotene_dust.name=β-Каротин
+metaitem.phycomyces_blakesleeanus_dust.name=Фикомицеты рода Blakesleeanus
 metaitem.phycomyces_blakesleeanus_dust.tooltip=Грибок
 metaitem.corn_kernel_gem_chipped.name=Семена кукурузы
 //metaitem.corn_kernel_gem_chipped.tooltip=Это семя можно вырастить только в теплице.
@@ -28,7 +28,6 @@ gregtech.material.gtfo_acetoin=Ацетоин
 gregtech.material.gtfo_1,4-butynediol=1,4-Бутиндиол
 gregtech.material.gtfo_popcorn_flavoring_mixture=Ароматизирующая смесь для попкорна
 gregtech.material.gtfo_2-acetylpyridine=2-ацетилпиридин
-
 metaitem.chocolate_liquor_dutched_pressed_crushed.name=Голландский пресованный шоколадный ликер
 metaitem.chocolate_liquor_pressed_crushed.name=Прессованный шоколадный ликер
 metaitem.cracker_graham_ungraded_plate.name=Неклассифицированный Грэм Крекер
@@ -55,7 +54,6 @@ gregtech.material.gtfo_marshmallow_syrup_mixture=Смесь сиропа зеф�
 gregtech.material.gtfo_marshmallow_foam=Зефирная пена
 gregtech.material.gtfo_butter=Масло
 gregtech.material.gtfo_potassium_carbonate_solution=Раствор карбоната калия
-
 metaitem.food.smore.eight.name=EightS'more OctoS'mingot
 metaitem.food.smore.sixteen.name=SixteenS'more HexadecaS'mingot
 metaitem.food.smore.thirtytwo.name=Half-stack-o'-S'more TriacontadyoS'mingot
@@ -64,7 +62,6 @@ metaitem.food.smore.gusone.name=S'mogus S'mingot
 metaitem.food.smore.gustwo.name=MultiS'mogus GrandS'mingot
 metaitem.food.smore.gusfour.name=AllS'mogus OmniS'mingot
 metaitem.food.smore.heartofthesmogus.name=Сердце Смогуса
-
 metaitem.basic_coffee_unsorted_gem_chipped.name=Несортированные сырые кофейные зерна
 metaitem.basic_coffee_large_gem_chipped.name=Большие сырые кофейные зерна
 metaitem.basic_coffee_small_gem_chipped.name=Маленькие сырые кофейные зерна
@@ -81,7 +78,6 @@ metaitem.roasted_coffee_small_gem_chipped.name=Маленькие жареные
 metaitem.coffee_grounds_dust.name=Кофейная гуща
 gregtech.material.gtfo_coffee=Кофе
 gregtech.material.gtfo_energized_coffee=Бодрящий кофе
-
 metaitem.food.mineral_water.name=Минеральная вода
 metaitem.food.mineral_water.tooltip=Мат, атеисты.
 metaitem.component.thermos.casing.name=Корпус термоса
@@ -154,7 +150,6 @@ gregtechfoodoption.potion.creativity=Креативность
 gregtechfoodoption.potion.stepassist=Шаг Ассистент
 gregtechfoodoption.potion.addiction=Зависимость
 gregtechfoodoption.potion.withdrawal=Снятие
-
 gregtechfoodoption.machine.bioreactor.hv.name=Усовершенствованный малый биореактор II
 gregtechfoodoption.machine.bioreactor.ev.name=Усовершенствованный малый биореактор III
 gregtechfoodoption.machine.bioreactor.iv.name=Элитный малый биореактор
@@ -206,7 +201,6 @@ gregtech.material.gtfo_hfcs_solution=Раствор кукурузного си�
 gregtech.material.gtfo_glucose_solution=раствор глюкозы
 gregtech.material.gtfo_apple_syrup=Яблочный сироп
 gregtech.material.gtfo_etirps=Этирпс™
-
 gregtechfoodoption.machine.slicer.lv.name=Базовая машина для нарезки
 gregtechfoodoption.machine.slicer.mv.name=Усовершенствованная машина для нарезки
 gregtechfoodoption.machine.slicer.hv.name=Усовершенствованная машина для нарезки II
@@ -265,7 +259,6 @@ metaitem.food.potato_on_a_stick.tooltip=Полностью похоже на к�
 gregtech.material.gtfo_frying_oil=Масло для жарки
 gregtech.material.gtfo_starch_filled_water=Вода, наполненная крахмалом
 gregtech.material.gtfo_hot_frying_oil=Масло для горячего жарения
-
 gregtechfoodoption.machine.baking_oven.name=Примитивная печь для выпечки
 gregtechfoodoption.machine.steam_baking_oven.name=Паровая печь для выпечки
 gregtechfoodoption.machine.steam_baking_oven.tooltip=Работает в два раза медленнее обычной духовки, но не требует угля.
@@ -291,14 +284,12 @@ recipemap.electric_baking_oven.name=Электрическая печь для �
 recipemap.steam_baking_oven.name=Паровая печь для выпечки
 metaitem.brick.adobe.name=Сырцовый кирпич
 metaitem.brick.adobe_fired.name=Глинобитный кирпич
-
 metaitem.component.bread.name=Непеченый хлеб
 metaitem.component.baguette.name=Незапеченный Багет
 metaitem.food.baguette.name=Багет
 metaitem.component.dough.name=Тесто
 metaitem.wooden_form.bread.name=Хлеб Деревянная Форма
 metaitem.wooden_form.baguette.name=Багет Деревянной Формы
-
 metaitem.component.structural_mesh.apple.name=Структурная сетка Apple
 metaitem.component.structural_mesh.carrot.name=Структурная сетка моркови
 metaitem.food.tungstensteel_apple.name=Вольфрамовая сталь Яблоко
@@ -311,11 +302,9 @@ metaitem.component.sugary_dough.name=Сахарное тесто
 metaitem.component.sugary_dough.tooltip=Очень эффективно провоцирует сердечные приступы.
 gregtech.material.gtfo_mushroom_soup=Грибное рагу
 gregtech.material.gtfo_beetroot_soup=Борщ
-
 metaitem.component.pie_crust.name=Корка пирога
 metaitem.component.pie_crust.tooltip=Для приготовления пирогов
 metaitem.tool.tooltip.rolling_pin.slime=Наносит дополнительный урон слизням!
-
 metaitem.component.pizza.cheese.name=Пицца с сырым сыром
 metaitem.component.pizza.veggie.name=Пицца с сырыми оливками и грибами
 metaitem.component.pizza.mince_meat.name=Пицца с сырым мясным фаршем
@@ -344,7 +333,6 @@ metaitem.food.sandwich.veggie.large.tooltip=Просто не стоит тог�
 metaitem.food.sandwich.cheese.large.tooltip=Настройтесь на сыр.
 metaitem.food.sandwich.bacon.large.tooltip=Для женщин! (и фембойчиков)
 metaitem.food.sandwich.steak.large.tooltip=По крайней мере, вы не назвали это «Ветчиной на пару».
-
 metaitem.food.burger.meat.name=Мясной бургер
 metaitem.food.burger.meat.tooltip=Для нормальных людей
 metaitem.food.burger.cheese.name=Чизбургер
@@ -371,10 +359,8 @@ metaitem.crop.onion.tooltip=Не плачь
 metaitem.crop.tomato.name=Помидор
 metaitem.crop.tomato.tooltip=Твердый кетчуп
 metaitem.crop.olive.name=Оливка
-
 entity.italian_buffalo.name=Итальянский буйвол
 gregtech.material.gtfo_italian_buffalo_milk=Молоко итальянского буйвола
-
 metaitem.component.beef_slice.name=кусочек говядины
 metaitem.component.cheddar_curd_mold.name=Форма для творога Чеддер
 metaitem.component.aged_cheddar_mold.name=Форма для выдержанного чеддера
@@ -415,7 +401,6 @@ metaitem.food.gorgonzola_slice.tooltip=Попробуйте новых пове�
 metaitem.penicillium.culture.name=Культура пенициллия Рокефорти
 gregtech.material.gtfo_moist_air=Влажный воздух
 gregtech.material.gtfo_cold_moist_air=Холодный влажный воздух
-
 metaitem.component.flat_dough.name=Плоское тесто
 metaitem.component.flat_dough.tooltip=Базовая пицца (ВХ напряжение: 32 (LV))
 recipemap.cuisine_assembler.name=Кухонный сборщик
@@ -452,9 +437,7 @@ metaitem.food.bacon.name=Бекон
 metaitem.food.bacon.tooltip=Был поджарен
 gregtech.material.gtfo_tomato_sauce=Томатный соус
 gregtech.material.gtfo_olive_oil=Оливковое масло
-
 tile.gtfo_metal_casing.casing_bismuth_bronze.name=Безопасный для пищевых продуктов корпус из висмутовой бронзы
-
 gregtech.material.gtfo_sludge=шлам
 metaitem.food.chum.name=Чам
 metaitem.food.chum.tooltip=Чам есть Фум!
@@ -466,7 +449,6 @@ metaitem.food.fish_rotten.name=Гнилая рыба
 metaitem.food.fish_rotten.tooltip=Надо было добавить соль
 metaitem.food.meat_rotten.name=Гнилое мясо
 metaitem.food.meat_rotten.tooltip=Надо было добавить соль
-
 metaitem.food.banana.name=Банан
 metaitem.food.orange.name=Апельсин
 metaitem.food.grapes.name=Виноград
@@ -477,14 +459,12 @@ metaitem.food.orange.tooltip=Оранжевый, я злюсь, что я сде
 metaitem.food.grapes.tooltip=Они сделали операцию Винограду.
 metaitem.food.mango.tooltip=Персонго
 metaitem.food.apricot.tooltip=Единственное, что может быть лучше этого, — это абрикос из дамасской стали.
-
 metaitem.food.peeled_banana.name=Банан без кожуры
 metaitem.component.banana_peel.name=Банановая кожура
 metaitem.potassium_perchlorate_dust.name=Перхлорат калия
 metaitem.ammonium_perchlorate_dust.name=Перхлорат аммония
 metaitem.burnt_banana_peel_dust.name=Жженая банановая кожура
 gregtech.material.gtfo_alkaline_extract=Щелочной экстракт
-
 metaitem.food.vodka.name=Водка
 metaitem.food.vodka.tooltip=Дистиллированная Россия
 metaitem.food.leninade.name=Ленинада
@@ -493,9 +473,7 @@ gregtech.material.gtfo_potato_juice=Картофельный сок
 gregtech.material.gtfo_vodka=Водка
 gregtech.material.gtfo_leninade=Ленинада
 gregtech.material.gtfo_white_wine=Белое вино
-
 gregtech.material.gtfo_sodium_carbonate_solution=Раствор карбоната натрия
-
 gregtechfoodoption.machine.electric_baking_oven.tooltip.1=Запускает рецепты только в том случае, если установлена ​​необходимая температура.
 gregtechfoodoption.machine.electric_baking_oven.tooltip.2=Требуемое §aEU§7 на tick экспоненциально связано с текущей температурой.
 gregtechfoodoption.machine.electric_baking_oven.tooltip.3=Расширьте мультиблок блоком §a1§7, чтобы параллельно запустить дополнительный рецепт.
@@ -536,75 +514,59 @@ metaitem.food.beetroot_soup.hot.name=Горячий свекольный суп
 metaitem.food.beetroot_soup.hot.tooltip=Время супа
 metaitem.food.rabbit_stew.hot.name=Горячее рагу из кролика
 metaitem.food.rabbit_stew.hot.tooltip=Вы только что съели кролика, гордитесь своим моральным достижением.
-
 gregtech.material.gtfo_perchloric_acid=Хлорная кислота
 gregtech.material.gtfo_chloroauric_acid=Золотохлористоводородная кислота
-
 metaitem.mashed_potato_dust.name=Картофельное пюре
 metaitem.mashed_potato_dust.tooltip=Отличный материал для изготовления инструментов
 gregtech.material.gtfo_rabbit_stew=Рагу из кролика
-
 gregtechfoodoption.tooltip.potion.each=§e%s %s§r для тиков §c%s§r с вероятностью возникновения §a%s%%§r
 gregtechfoodoption.tooltip.potion.header=§6Содержит эффекты:
-
 metaitem.tough_meat_dust.name=Закаленное мясо
 metaitem.cooked_meat_ingot.name=Слиток приготовленного мяса
 metaitem.component.scrap_meat.name=Мясные отходы
 metaitem.component.scrap_meat.tooltip=Части, которые люди обычно не едят, хотя я не буду судить
-
 metaitem.component.skewer.name=Шашлык
 metaitem.component.skewer.tooltip=Да, вы бы очень робко съели это!
 metaitem.fat_ingot.name=Животный жир
 metaitem.fat_ingot.tooltip=Может, стоит сходить в спортзал?!
-
 metaitem.kubide_meat_dust.name=Кообиде Ингредиенты
 metaitem.kubide_meat_dust.tooltip=Точно Вкусно!!
 metaitem.component.kebab.kubide.name=Сырой кообиде кебаб
 metaitem.component.kebab.kubide.tooltip=нужно немного углерода!
 metaitem.food.kebab.kubide.name=Кебаб Кубиде
 metaitem.food.kebab.kubide.tooltip=Идет с Айраном!
-
 metaitem.component.kebab.meat.name=Кебаб с сырым мясом
 metaitem.food.kebab.meat.name=Мясной кебаб
 metaitem.food.kebab.meat.tooltip=Также известный как Ченге
-
 metaitem.barg_meat_dust.name=Барг Ингредиенты
 metaitem.barg_meat_dust.tooltip=Вы знаете, что это означает листовое мясо... Верно?
 metaitem.component.kebab.barg.name=Сырой барг-кебаб
 metaitem.component.kebab.barg.tooltip=Барг барги Баргюн Барги
 metaitem.food.kebab.barg.name=Барг Кебаб
 metaitem.food.kebab.barg.tooltip=Разве это не Кубиде с... меньшим количеством шагов?!
-
 metaitem.component.kebab.onion.name=Кебаб из лука с гвоздями
 metaitem.component.kebab.onion.tooltip=Пригвоздите свои крики!
 metaitem.food.kebab.onion.name=Луковый кебаб
 metaitem.food.kebab.onion.tooltip=Посмотрите, кто сейчас плачет?!
-
 metaitem.component.kebab.tomato.name=Кебаб из помидоров с гвоздями
 metaitem.component.kebab.tomato.tooltip=Нет, не мистер Помидор!!
 metaitem.food.kebab.tomato.name=Кебабед Томатный
 metaitem.food.kebab.tomato.tooltip=Он Новый Мессия
-
 metaitem.component.kebab.carrot.name=Морковь на шашлыке из шашлыка
 metaitem.food.kebab.carrot.name=Кебаб из моркови на гриле
 metaitem.food.kebab.carrot.tooltip=Большой Чунгус
-
 metaitem.component.kebab.fat.name=Кебаб из хвостового сала сырой
 metaitem.component.kebab.fat.tootip=Готовьте, чтобы было сочно!
 metaitem.food.kebab.fat.name=Хвост Жирный Кебаб
 metaitem.food.kebab.fat.tooltip=Донбэ на самом деле здоров!
-
 metaitem.component.kebab.chum.name=Чам на Скьюэл Кебаб
 metaitem.component.kebab.chum.tooltip=Это не здорово...
 metaitem.food.kebab.chum.name=Чум-кебаб
 metaitem.food.kebab.chum.tooltip=Да, это дружелюбно
-
 metaitem.food.kebab.chum.bucket.name=Смесь для шашлыка из кеты
 metaitem.food.kebab.chum.bucket.tooltip=Это не Чам Бакет...
-
 metaitem.food.kebab.soltani.name=Кебаб и Солтани!
 metaitem.food.kebab.soltani.tooltip=EV Kebab (Входное напряжение: вкусно!)
-
 metaitem.food.juice.apple.name=Яблочный сок
 metaitem.food.juice.orange.name=Апельсиновый сок
 metaitem.food.juice.apple.tooltip=потому что яблоки в Майнкрафте желтые
@@ -615,10 +577,8 @@ gregtech.material.gtfo_stearin=Жидкий жир (стеарин)
 gregtech.material.gtfo_stearic_acid=Стеариновая кислота
 gregtech.material.gtfo_sodium_stearate=Стеарат натрия (мыло)
 gregtech.material.gtfo_citric_acid=Лимонная кислота
-
 item.gt.tool.butchery_knife.hv.name=Электрический разделочный нож %s (HV)
 item.gt.tool.butchery_knife.hv.tooltip=§9Моб Деливинизатор §c4000
-
 enchantment.level.0=I
 enchantment.level.7=VII
 enchantment.level.8=VIII
@@ -629,7 +589,6 @@ enchantment.level.29=XXVIV
 enchantment.level.49=XLVIV
 enchantment.level.84=LXXXIV
 enchantment.level.146=CXLVI
-
 gregtechfoodoption.chat.food_buff=Наблюдая за своим прогрессом, вы начинаете жаждать новых видов еды.
 
 # Mob Age Sorter
@@ -637,7 +596,6 @@ gregtechfoodoption.machine.mob_age_sorter.lv.name=Базовый сортиро�
 gregtechfoodoption.machine.mob_age_sorter.mv.name=Улучшеный сортировщик возраста мобов
 gregtechfoodoption.machine.mob_age_sorter.hv.name=Улучшеный сортировщик возраста мобов II
 gregtechfoodoption.machine.mob_age_sorter.ev.name=Улучшеный сортировщик возраста мобов III
-
 gregtechfoodoption.machine.mob_age_sorter.range=Перемещает животных на квадрат %sx%s впереди.
 
 # Mob Exterminator
@@ -645,7 +603,6 @@ gregtechfoodoption.machine.mob_exterminator.lv.name=Базовый истреб�
 gregtechfoodoption.machine.mob_exterminator.mv.name=Улучшеный истребитель мафии
 gregtechfoodoption.machine.mob_exterminator.hv.name=Улучшеный истребитель мафии II
 gregtechfoodoption.machine.mob_exterminator.ev.name=Улучшеный истребитель мафии III
-
 gregtechfoodoption.machine.mob_exterminator.tooltip=«Убивает» (наносит 40 едениц здоровья) 4 моба каждую секунду в квадрате 9x9 впереди за тик с грабежом %s.
 gregtechfoodoption.machine.mob_exterminator.tooltip.consumption=Потребляет %s EU за каждое убийство
 gregtechfoodoption.machine.mob_exterminator.tooltip.nitrous=Может убивать еще до 12 мобов каждую секунду при усилении закисью азота.
@@ -664,16 +621,12 @@ gregtechfoodoption.machine.mob_extractor.uev.name=Идеальный экстр�
 gregtechfoodoption.machine.mob_extractor.uiv.name=Идеальный экстрактор мобов III
 gregtechfoodoption.machine.mob_extractor.uxv.name=Идеальный экстрактор мобов IV
 gregtechfoodoption.machine.mob_extractor.opv.name=Совершенный экстрактор мобов
-
 gregtechfoodoption.machine.mob_extractor.tooltip=Извлеченная сущность вступает в электрическую эру
-
 recipemap.mob_extractor.name=Экстрактор мобов
 mob_extractor.player_name=Игрок
-
 gregtechfoodoption.gui.mob_age_sorter_mode.disabled=Перемещает только взрослых: нажмите, чтобы переместить только детей.
 gregtechfoodoption.gui.mob_age_sorter_mode.enabled=Перемещает только детей: нажмите, чтобы перемещать только взрослых.
 gregtechfoodoption.recipe.accepted_mobs_on_top=Требуется %s сверху
-
 metaitem.seed.onion.name=Семена лука
 metaitem.component.soybean.name=Соевый
 metaitem.seed.unknown.name=Неопределенные семена GTFO
@@ -682,9 +635,7 @@ metaitem.seed.soy.name=Семена сои
 metaitem.seed.tomato.name=Семена томатов
 metaitem.seed.grape.name=Виноградные косточки
 metaitem.seed.cucumber.name=Семена огурцов
-
 metaitem.seed.onion.tooltip=Для выращивания молодого лука
-
 death.attack.extermination=%s был уничтожен
 death.attack.extraction=Внутренние органы %s были извлечены
 death.attack.cyanide=%s почувствовал запах миндаля
@@ -700,13 +651,10 @@ gregtechfoodoption.machine.farmer.tooltip.flavor=Применяет лазерн
 gregtechfoodoption.machine.farmer.tooltip.consumption=Во время работы потребляет %,d EU/t за операцию
 gregtechfoodoption.machine.farmer.tooltip.working=Работает на ферме 9x9 впереди.
 gregtechfoodoption.machine.farmer.tooltip.speed=Работает с одним блоком каждые %d тиков
-
 metaitem.sodium_perchlorate_dust.name=Перхлорат натрия
 metaitem.sodium_chlorate_dust.name=Хлорат натрия
-
 itemGroup.gregtechfoodoption.main=Вариант питания GregTech
 itemGroup.gregtechfoodoption.food=GregTech Food Option Продукты питания
-
 gregtechfoodoption.leaves.banana.name=Банановые листья
 gregtechfoodoption.log.banana.name=Банановый псевдостебель
 gregtechfoodoption.sapling.banana.name=Саженец банана
@@ -747,7 +695,6 @@ gregtechfoodoption.leaves.coconut.name=Кокосовые листья
 gregtechfoodoption.log.coconut.name=Кокосовое дерево
 gregtechfoodoption.sapling.coconut.name=Саженец кокоса
 gregtechfoodoption.planks.coconut.name=Кокосовые доски
-
 metaitem.food.ice_cream.plain.name=Обычное мороженое
 metaitem.food.ice_cream.plain.tooltip=На вкус как лед, я думаю
 metaitem.food.ice_cream.chum.name=Чум Мороженое
@@ -770,7 +717,6 @@ metaitem.food.ice_cream.chip.name=Мороженое с картофельным
 metaitem.food.ice_cream.chip.tooltip=https://tenor.com/view/cat-swim-in-milk-cat-kitty-milk-milk-cat-gif-23473453
 metaitem.food.ice_cream.rainbow.name=Радужное мороженое
 metaitem.food.ice_cream.rainbow.tooltip=Попробуй всю радугу
-
 gregtech.material.gtfo_skimmed_milk=Скисшее молоко
 gregtech.material.gtfo_cream=Крем
 gregtech.material.gtfo_soy_lecithin=Соевый лецитин
@@ -780,7 +726,6 @@ gregtech.material.gtfo_soybean_oil=Рафинированное соевое м�
 gregtech.material.gtfo_pasteurized_milk=Пастеризованное молоко
 gregtech.material.gtfo_milk_colloid=Молочный коллоид
 gregtech.material.gtfo_ice_cream_mixture=Смесь для мороженого
-
 metaitem.vanillylmandelic_acid_dust.name=Ванилилминдальная кислота
 metaitem.vanilglycolic_acid_dust.name=Ванилгликолевая кислота
 metaitem.vanillin_dust.name=Ванилин
@@ -788,9 +733,7 @@ gregtech.material.gtfo_guaiacol=Гуаякол
 gregtech.material.gtfo_glyoxal=Глиоксаль
 gregtech.material.gtfo_acetaldehyde=Ацетальдегид
 gregtech.material.gtfo_glyoxylic_acid=Глиоксиловая кислота
-
 gregtech.material.gtfo_melon_extract=Экстракт дыни
-
 metaitem.component.gelatin.name=Желатин
 metaitem.food.chocolate.name=Молочный шоколад
 metaitem.food.graham_cracker.name=Грэм Крекер
@@ -811,10 +754,8 @@ metaitem.food.coffee.energized.name=Энергичная кофейная чаш
 metaitem.crop.coffee.name=Кофе Вишня
 metaitem.seed.coffee.name=Кофейное семя
 metaitem.component.unfired_cup.name=Необожженный кубок
-
 entity.Snowman.name=Снежный голем
 gregtechfoodoption.potion.snowgolemspawner=Защищенный от снега
-
 gregtechfoodoption.machine.greenhouse.name=Теплица
 recipemap.greenhouse.name=Теплица
 gregtech.material.gtfo_rainbow_sap=Радужный сок
@@ -824,11 +765,9 @@ metaitem.arsenic_trioxide_dust.name=Триоксид мышьяка
 metaitem.cupric_hydrogen_arsenite_dust.name=Зеленый цвет Шееле
 tile.transparent_casing.greenhouse_glass.name=Тепличное стекло
 gregtech.multiblock.not_enough_sun=Крыше не хватает солнечного света, и рецепты будут работать в два раза медленнее.
-
 gregtechfoodoption.machine.greenhouse.tooltip.1=Имитирует рост деревьев внутри.
 gregtechfoodoption.machine.greenhouse.tooltip.2=Запуск рецепта занимает в два раза больше времени, если какая-либо часть крыши заблокирована или сейчас ночь.
 gregtechfoodoption.machine.greenhouse.tooltip.3=Это устойчиво к атмосферным воздействиям!
-
 gregtech.material.gtfo_beer_batter=Пивное тесто
 metaitem.puff_pastry_plate.name=Слоеное тесто
 metaitem.laminated_dough_plate.name=Ламинированное тесто
@@ -863,7 +802,6 @@ gregtech.material.gtfo_wheaty_juice=Пшеничный сок
 gregtech.material.gtfo_poor_quality_beer=Некачественное пиво
 gregtech.material.sodium_sulfate=Сульфат натрия
 gregtech.material.gtfo_hydrogen_cyanide=Цианистый водород
-
 gregtechfoodoption.fluid.fertilizer=§2%d%% эффективен в качестве удобрения для разбрызгивания
 metaitem.cover.sprinkler.name=Разбрызгиватель
 metaitem.cover.sprinkler.tooltip=В качестве крышки §4, обращенной вниз§7, распыляет жидкость на участок с посевами 9x9/nОставьте §63-Блок Пространства§7 между этим и землей/nЩелкните левой кнопкой мыши мягким молотком, чтобы отключить частицы
@@ -872,11 +810,9 @@ gregtech.material.gtfo_rubber_sap=Резиновый сок
 gregtech.material.gtfo_blood=Кровь
 gregtech.material.gtfo_fertilizer_solution=Раствор удобрений
 gregtechfoodoption.recipe.cause_damage=Наносит %d урона мобу
-
 gregtech.material.gtfo_nilk=Налоко
 metaitem.food.nilk.name=Налоко
 metaitem.food.nilk.tooltip=Налоко
-
 gregtechfoodoption.tooltip.food.lacing=§2Может быть дополнен забавными химикатами
 gregtechfoodoption.fluid.lacing=§2 Можно использовать для размещения в Каннере предметов размером 100 mB.
 gregtechfoodoption.cyanide.1=§cВас действительно тошнит...
@@ -900,9 +836,7 @@ metaitem.food.caplet.chorus.name=Капсула с ферментами хору
 metaitem.food.caplet.chorus.tooltip=Цвет просто изменился?
 metaitem.food.caplet.vibrant.name=Яркая капсула
 metaitem.food.caplet.vibrant.tooltip=У него просто нет того же аромата, что и у пентагалогенида полимосковия.
-
 metaitem.iv_bag.name=IV сумка
-
 gregtech.material.gtfo_acetic_anhydride=Уксусный ангидрид
 gregtech.material.gtfo_heated_water=Горячая вода
 gregtech.material.gtfo_gelatin_solution=Желатиновый раствор
@@ -911,21 +845,18 @@ gregtech.material.gtfo_sodium_hypochlorite=Гипохлорит натрия
 gregtech.material.gtfo_nitrophenols=Нитрофенолы
 gregtech.material.gtfo_aniline=Анилин
 gregtech.material.paracetamol=Парацетамол
-
 gregtechfoodoption.crop.agricraft.info=Привет! Я вижу, ты по какой-то причине это читаешь. Этот урожай, ну, делает всякое. Наверное, это важно. Также извините за полностью сломанную страницу; это выглядит *слишком* слишком сложно исправить прямо сейчас. И да, эта всплывающая подсказка вообще не относится к какой-либо культуре GTFO.
 metaitem.food.plutonium_241_caplet.name="съедобная" капсула плутония-241
 metaitem.food.plutonium_241_caplet.tooltip=Не ешь (очень пожалуйста)
 metaitem.component.iv_bag.name=IV сумка
 metaitem.component.iv_bag.tooltip=Прямое обновление сумки EV Bag.
 gregtechfoodoption.hello_buildcraft=Мод (вероятно, BuildCraft) тупит.
-
 metaitem.food.lasagna.chum.name=Чам Лазанья
 metaitem.food.lasagna.chum.tooltip=«чумагна» — безмятежная, мудрая
 gregtechfoodoption.tooltip.food.duration=§aТребует §f%s§a клещей для еды (по сравнению с обычными 32)
 gregtechfoodoption.potion.amplifier=Усиление эффекта
 gregtechfoodoption.potion.lengthener=Удлинитель эффекта
 gregtechfoodoption.potion.venting=Вентиляция
-
 metaitem.shredded_parmesan_dust.name=Тертый сыр Пармиджано-Реджано
 metaitem.black_pepper_dust.name=Черный перец
 metaitem.nutmeg_dust.name=Измельченный мускатный орех
@@ -1026,7 +957,6 @@ metaitem.food.white_wine.name=Белое вино
 metaitem.food.red_wine.name=Красное вино
 metaitem.food.white_grapes.name=Белый виноград
 metaitem.food.white_grapes.tooltip=Они сделали операцию белому винограду (шокирует)
-
 gregtech.material.gtfo_egg=Яйцо
 gregtech.material.gtfo_unpasteurized_skimmed_milk=Непастеризованное обезжиренное молоко
 gregtech.material.gtfo_parmigiano_reggiano_starter=Закуска Пармиджано-Реджано
@@ -1051,7 +981,6 @@ gregtech.material.gtfo_alcoholic_red_grape_juice=Алкогольный сок �
 gregtech.material.gtfo_red_wine=Красное вино
 gregtech.material.gtfo_bolognese_sauce=Соус Болоньезе
 gregtech.material.gtfo_tomato_bolognese_sauce=Томатный соус болоньезе
-
 gregtechfoodoption.machine.multicooker.lv.name=Базовая мультиварка
 gregtechfoodoption.machine.multicooker.mv.name=Продвинутая мультиварка
 gregtechfoodoption.machine.multicooker.hv.name=Продвинутая мультиварка II
@@ -1079,13 +1008,10 @@ gregtechfoodoption.machine.multicooker.uiv.tooltip=Кастрюля 9004
 gregtechfoodoption.machine.multicooker.uxv.tooltip=Кастрюля 9005
 gregtechfoodoption.machine.multicooker.opv.tooltip=Кастрюля 9006
 recipemap.multicooker.name=Мультиварка
-
 metaitem.food.emergency_rations.name=Сухпайок
 metaitem.food.emergency_rations.tooltip=Печать слишком трудно открыть
-
 metaitem.lithium_oxide_dust.name=Оксид лития
 metaitem.lithium_carbonate_dust.name=Карбонат лития
-
 tile.gtfo_crop_coffee.name=Кофе
 tile.gtfo_crop_tomato.name=Помидор
 tile.gtfo_crop_onion.name=Лук
@@ -1105,7 +1031,6 @@ tile.gtfo_crop_black_pepper.name=Черный перец
 tile.gtfo_crop_rice.name=Рис
 tile.gtfo_crop_white_grape.name=Белый виноград
 tile.gtfo_crop_cotton.name=Хлопок
-
 lacing.item_list.name=Рецепт шнуровки
 gregtechfoodoption.lacing.info.1=Применяет эффект:
 gregtechfoodoption.lacing.info.2=Длится %s тиков
@@ -1113,7 +1038,6 @@ gregtechfoodoption.potion.cyanidepoisoning=Отравление цианидам
 gregtechfoodoption.potion.antischizo=Лекарства от шизофрении
 gregtechfoodoption.potion.lungcancer=Рак легких
 eating.output.name=Рецепт еды
-
 metaitem.component.pelmeni_uncooked.name=Сырые пельмени
 metaitem.component.pelmeni_uncooked_seasoned.name=Сырые пельмени с приправами
 metaitem.food.pelmeni.name=Пельмени
@@ -1122,12 +1046,9 @@ metaitem.food.pelmeni_seasoned.name=Пельмени с приправами
 metaitem.food.pelmeni_seasoned.tooltip=С гарниром со сметаной
 gregtech.material.gtfo_sour_cream=Сметана
 gregtech.material.gtfo_lactic_acid_bacteria=Молочнокислые бактерии
-
 gregtechfoodoption.sprinkler.particles.on=Разбрызгиватель частиц включен.
 gregtechfoodoption.sprinkler.particles.off=Спринклеры частиц отключены.
-
 gt.tool.class.rolling_pin=Скалка
-
 metaitem.food.etirps_cranberry.tooltip=Хотите Etirps Cranberry?
 metaitem.food.berry_medley.tooltip=Как бы это сделал Реми
 metaitem.food.berry.blueberry.name=Черника
@@ -1156,20 +1077,15 @@ gregtech.material.gtfo_cranberry_extract=Экстракт клюквы
 gregtech.material.gtfo_etirps_cranberry=Этирпс Клюква
 gregtech.material.gtfo_cranberry_sludge=Клюквенный осадок
 gregtech.material.gtfo_cranberry_soda_syrup=Клюквенный содовый сироп
-
 gregtechfoodoption.berry.description.0=§4Сам по себе растет очень медленно!
 gregtechfoodoption.berry.description.1=§bРастет быстрее на более высоких уровнях
 gregtechfoodoption.berry.description.2=Поместите §5три§r выращенных ягодных куста предыдущего яруса в клетку 3х3 по центру куста, чтобы перейти на следующий ярус.
 gregtechfoodoption.berry.description.3=§4Квадрат 3x3 по центру куста не должен быть заполнен!
-
 gregtechfoodoption.blocked=Это блокирует ягодный куст на %s (всего %s).
-
 metaitem.component.coconut.name=Кокос
 metaitem.component.coconut.tooltip=Хладнокровный убийца
-
 gregtechfoodoption.seed.0=§Можно использовать как семя
 gregtechfoodoption.seed.root_crop=§rУрожай §4можно собрать §4только §4перед §r, когда можно будет собрать Семена!
-
 gregtechfoodoption.multiblock.kitchen.no_recipe=Элемент рецепта отсутствует! (или он не настроен)
 gregtechfoodoption.multiblock.kitchen.buses_full=Товар IO Автобусы переполнены!
 gregtechfoodoption.multiblock.kitchen.hatches_full=Люки жидкостного ввода-вывода заполнены!
@@ -1178,7 +1094,6 @@ gregtechfoodoption.multiblock.kitchen.machines_not_working=Требуемые м
 gregtechfoodoption.multiblock.kitchen.no_ingredients=Не хватает ингредиентов!
 gregtechfoodoption.multiblock.kitchen.probably_fine=Запуск рецептов...
 gregtechfoodoption.multiblock.kitchen.order_complete=Order completed!
-
 gregtechfoodoption.multiblock.kitchen.very_dirty=На кухне действительно не помешала бы уборка!
 gregtechfoodoption.multiblock.kitchen.order_size=Размер заказа: %s шт.
 gregtechfoodoption.multiblock.kitchen.dirtiness=Загрязнение: %s DU
@@ -1187,9 +1102,7 @@ gregtechfoodoption.multiblock.kitchen.decrement_order=Уменьшить раз�
 
 
 gregtechfoodoption.fluid.cleaning=Очищает §2%s§r DU/L!
-
 gregtechfoodoption.kitchen.recipe.warn=Здесь можно размещать только продукты питания!
-
 metaitem.bone_ash_dust.name=Костяной пепел
 metaitem.unfired_porcelain_tile_plate.name=Необожженная фарфоровая плитка
 metaitem.bisque_porcelain_tile_plate.name=Фарфоровая плитка бисквитного цвета
@@ -1198,15 +1111,12 @@ metaitem.black_glazed_porcelain_tile_plate.name=Черная глазурова�
 metaitem.utility.kitchen_recipe.name=Рецепт кухни
 metaitem.utility.kitchen_recipe.tooltip=Щелкните правой кнопкой мыши, чтобы добавить рецепты GTFO через JEI! Работает с мультиблоком «Кухня» по рецептам §4singleblock§7.
 gregtechfoodoption.kitchen_recipe.final_result=§3Производит %s
-
 gregtechfoodoption.machine.kitchen.tooltip.1=§4Можно использовать только с JEI
 gregtechfoodoption.machine.kitchen.tooltip.2=Пропускает рецепты, связанные с едой, через кухонный рецепт.
 gregtechfoodoption.machine.kitchen.tooltip.3=Поместите одноблочные машины на керамогранит!
 gregtechfoodoption.machine.kitchen.tooltip.4=Подойдет любой размер, превышающий размер предварительного просмотра, до 15x15.
 gregtechfoodoption.machine.kitchen.tooltip.5=§4Для эффективной работы необходимы чистящие средства!
-
 gregtechfoodoption.seed.water_crop=Должен быть помещен в один блок воды
-
 metaitem.food.pie.fermented_chorus.name=Пирог с ферментированным хорусом
 gregtechfoodoption.potion.enhancedchorus=Улучшение хора
 metaitem.food.sorbet.apple.name=Яблочный сорбет
@@ -1219,12 +1129,10 @@ metaitem.food.sorbet.plain.name=Обычный сорбет
 metaitem.food.sorbet.plain.tooltip=Очень полезно для зубов, отвечаю
 metaitem.food.fermented_chorus.name=Ферментированный хоруса
 metaitem.food.antaf.name=Antaf™
-
 metaitem.food.naquadah_chips.name=Чипсы из Наквады
 metaitem.food.naquadah_chips.tooltip=Ваши ученые были так заняты вопросом, смогут ли они это сделать, что не дали себе труда задуматься, стоит ли это делать.
 metaitem.food.sandwich.vibrant.name=Вибрирующий сэндвич
 metaitem.food.sandwich.vibrant.tooltip=Думаю, в виде желе оно тоже неплохо работает.
-
 gregtech.material.gtfo_ender_pearl_solution=Раствор жемчуга края
 gregtech.material.gtfo_ender_sugar_solution=Сахарный раствор Эндера
 gregtech.material.gtfo_chorus_juice=Сок хоруса
