@@ -28,7 +28,6 @@ gregtech.material.gtfo_acetoin=Acetoina
 gregtech.material.gtfo_1,4-butynediol=1,4-Butindiolo
 gregtech.material.gtfo_popcorn_flavoring_mixture=Miscela di aromi per popcorn
 gregtech.material.gtfo_2-acetylpyridine=2-Acetylpiridina
-
 metaitem.chocolate_liquor_dutched_pressed_crushed.name=Liquore di cioccolato pressato alcalinizzato
 metaitem.chocolate_liquor_pressed_crushed.name=Liquore di cioccolato pressato
 metaitem.cracker_graham_ungraded_plate.name=Biscotto Graham non controllato
@@ -55,7 +54,6 @@ gregtech.material.gtfo_marshmallow_syrup_mixture=Miscela di sciroppo per marshma
 gregtech.material.gtfo_marshmallow_foam=Schiuma di marshmallow
 gregtech.material.gtfo_butter=Burro
 gregtech.material.gtfo_potassium_carbonate_solution=Soluzione di Sodio carbonato
-
 metaitem.food.smore.eight.name=OctoS'more OctoS'mingotto
 metaitem.food.smore.sixteen.name=EsadeciS'more EsadeciS'mingotti
 metaitem.food.smore.thirtytwo.name=Mezza pila di S'more TriacontadyoS'mingotti
@@ -64,7 +62,6 @@ metaitem.food.smore.gusone.name=S'mogus S'mingotto
 metaitem.food.smore.gustwo.name=MultiS'mogus GrandS'mingotto
 metaitem.food.smore.gusfour.name=AllS'mogus OmniS'mingotto
 metaitem.food.smore.heartofthesmogus.name=Cuore dello S'mogus
-
 metaitem.basic_coffee_unsorted_gem_chipped.name=Chicci di caffè crudi misti
 metaitem.basic_coffee_large_gem_chipped.name=Chicci di caffè crudi grandi
 metaitem.basic_coffee_small_gem_chipped.name=Chicci di caffè crudi piccoli
@@ -81,7 +78,6 @@ metaitem.roasted_coffee_small_gem_chipped.name=Chicci di caffè piccoli arrostit
 metaitem.coffee_grounds_dust.name=Caffè macinato
 gregtech.material.gtfo_coffee=Caffè
 gregtech.material.gtfo_energized_coffee=Caffè Energizzante
-
 metaitem.food.mineral_water.name=Acqua minerale
 metaitem.food.mineral_water.tooltip=Scacco matto, atei
 metaitem.component.dewar_flask.casing.name=Contenitore thermos
@@ -91,10 +87,10 @@ metaitem.component.dewar_flask.used.name=Thermos usato
 metaitem.component.dewar_flask.new.name=Thermos
 metaitem.lithium_bromide_dust.name=Bromuro di Litio
 metaitem.titanium_dichloride_dust.name=Dicloruro di titanio
-metaitem.nontoxic_polymoscovium_pentahalide_plate_curved.name=Placca curva non tossica di Pentaalogenuro di Polimoscovio 
-metaitem.nontoxic_polymoscovium_pentahalide_plate.name=Placca non tossica di Pentaalogenuro di Polimoscovio 
-metaitem.polymoscovium_pentahalide_plate.name=Placca di Pentaalogenuro di Polimoscovio 
-metaitem.polymoscovium_pentahalide_dust.name=Polvere di Pentaalogenuro di Polimoscovio 
+metaitem.nontoxic_polymoscovium_pentahalide_plate_curved.name=Placca curva non tossica di Pentaalogenuro di Polimoscovio
+metaitem.nontoxic_polymoscovium_pentahalide_plate.name=Placca non tossica di Pentaalogenuro di Polimoscovio
+metaitem.polymoscovium_pentahalide_plate.name=Placca di Pentaalogenuro di Polimoscovio
+metaitem.polymoscovium_pentahalide_dust.name=Polvere di Pentaalogenuro di Polimoscovio
 metaitem.oligopolymerized_moscovium_pentahalides_dust.name=Pentaalogenuro di Polimoscovio oligo-polimerizzato
 metaitem.well_mixed_moscovium_pentahalides_dust.name=Pentaalogenuri di Polimoscovio ben miscelati 
 metaitem.moscovium_trifluoride_dust.name=Trifloruro di Polimoscovio 
@@ -154,7 +150,6 @@ gregtechfoodoption.potion.creativity=Creatività
 gregtechfoodoption.potion.stepassist=Assistenza al Passo  
 gregtechfoodoption.potion.addiction=Dipendenza  
 gregtechfoodoption.potion.withdrawal=Astinenza  
-
 gregtechfoodoption.machine.bioreactor.hv.name=Piccolo Bio Reattore Avanzato II  
 gregtechfoodoption.machine.bioreactor.ev.name=Piccolo Bio Reattore Avanzato III  
 gregtechfoodoption.machine.bioreactor.iv.name=Piccolo Bio Reattore Elite  
@@ -206,7 +201,6 @@ gregtech.material.gtfo_hfcs_solution=Soluzione di Sciroppo di Mais ad Alto Frutt
 gregtech.material.gtfo_glucose_solution=Soluzione di Glucosio  
 gregtech.material.gtfo_apple_syrup=Sciroppo di Mela  
 gregtech.material.gtfo_etirps=Etirps™  
-
 gregtechfoodoption.machine.slicer.lv.name=Affettatrice Basilare
 gregtechfoodoption.machine.slicer.mv.name=Affettatrice Avanzata
 gregtechfoodoption.machine.slicer.hv.name=Affettatrice Avanzata II
@@ -265,7 +259,6 @@ metaitem.food.potato_on_a_stick.tooltip=Sembra totalmente una Chela di Granchio
 gregtech.material.gtfo_frying_oil=Olio per Friggere  
 gregtech.material.gtfo_starch_filled_water=Acqua Ricca di Amido  
 gregtech.material.gtfo_hot_frying_oil=Olio per Friggere Caldo  
-
 gregtechfoodoption.machine.baking_oven.name=Forno Primitivo  
 gregtechfoodoption.machine.steam_baking_oven.name=Forno a Vapore  
 gregtechfoodoption.machine.steam_baking_oven.tooltip=Funziona il doppio più lentamente di un normale forno, ma non richiede carbone.  
@@ -291,14 +284,12 @@ recipemap.electric_baking_oven.name=Forno Elettrico
 recipemap.steam_baking_oven.name=Forno a Vapore  
 metaitem.brick.adobe.name=Mattone di Fango  
 metaitem.brick.adobe_fired.name=Mattone in Adobo  
-
 metaitem.component.bread.name=Pane non cotto
 metaitem.component.baguette.name=Baguette non cotta
 metaitem.food.baguette.name=Baguette
 metaitem.component.dough.name=Impasto
 metaitem.wooden_form.bread.name=Stampo di Legno per Pane
 metaitem.wooden_form.baguette.name=Stampo di Legno per Baguette
-
 metaitem.component.structural_mesh.apple.name=Scheletro di Mela
 metaitem.component.structural_mesh.carrot.name=Scheletro di Carota
 metaitem.food.tungstensteel_apple.name=Mela in Acciaio al Tungsteno
@@ -311,11 +302,9 @@ metaitem.component.sugary_dough.name=Impasto zuccherato
 metaitem.component.sugary_dough.tooltip=Molto efficace nel causare infarti
 gregtech.material.gtfo_mushroom_soup=Zuppa di funghi
 gregtech.material.gtfo_beetroot_soup=Zuppa di barbabietole
-
 metaitem.component.pie_crust.name=Crosta per crostate
 metaitem.component.pie_crust.tooltip=Per fare crostate
 metaitem.tool.tooltip.rolling_pin.slime=Fa danno extra contro gli Slime!
-
 metaitem.component.pizza.cheese.name=Pizza al Formaggio Cruda  
 metaitem.component.pizza.veggie.name=Pizza alle Olive e Funghi Cruda  
 metaitem.component.pizza.mince_meat.name=Pizza alla Carne Tritata Cruda  
@@ -344,7 +333,6 @@ metaitem.food.sandwich.veggie.large.tooltip=Semplicemente non ne vale la pena.
 metaitem.food.sandwich.cheese.large.tooltip=Rilassati con il formaggio.  
 metaitem.food.sandwich.bacon.large.tooltip=Per donne! (e uomini femminili)  
 metaitem.food.sandwich.steak.large.tooltip=Almeno non l’hai chiamato Vitellone al Vapore.  
-
 metaitem.food.burger.meat.name=Hamburger di Carne  
 metaitem.food.burger.meat.tooltip=Per persone normali  
 metaitem.food.burger.cheese.name=Hamburger al Formaggio  
@@ -371,10 +359,8 @@ metaitem.crop.onion.tooltip=Non piangere
 metaitem.crop.tomato.name=Pomodoro  
 metaitem.crop.tomato.tooltip=Ketchup Solido  
 metaitem.crop.olive.name=Oliva  
-
 entity.italian_buffalo.name=Bufala
 gregtech.material.gtfo_italian_buffalo_milk=Latte di Bufala
-
 metaitem.component.beef_slice.name=Fetta di Manzo  
 metaitem.component.cheddar_curd_mold.name=Forma di Cagliata di Cheddar  
 metaitem.component.aged_cheddar_mold.name=Forma di Cheddar Stagionato  
@@ -415,7 +401,6 @@ metaitem.food.gorgonzola_slice.tooltip=Assapora i nuovi padroni funghi.
 metaitem.penicillium.culture.name=Coltura di Penicillium Roqueforti  
 gregtech.material.gtfo_moist_air=Aria Umida  
 gregtech.material.gtfo_cold_moist_air=Aria Umida Fredda  
-
 metaitem.component.flat_dough.name=Impasto piatto
 metaitem.component.flat_dough.tooltip=Pizza Base (Tensione IN: 32 (LV))
 recipemap.cuisine_assembler.name=Cuoco Meccanico
@@ -445,15 +430,12 @@ gregtechfoodoption.machine.cuisine_assembler.uev.tooltip=Produce aggressivamente
 gregtechfoodoption.machine.cuisine_assembler.uiv.tooltip=Produce aggressivamente le pizze
 gregtechfoodoption.machine.cuisine_assembler.uxv.tooltip=Produce aggressivamente le pizze
 gregtechfoodoption.machine.cuisine_assembler.opv.tooltip=Produce aggressivamente le pizze
-
 metaitem.component.bacon.name=Bacon crudo
 metaitem.food.bacon.name=Bacon
 metaitem.food.bacon.tooltip=Arrostito
 gregtech.material.gtfo_tomato_sauce=Sugo di pomodoro
 gregtech.material.gtfo_olive_oil=Olio d'oliva
-
 tile.gtfo_metal_casing.casing_bismuth_bronze.name=Telaio in Bismuto-Bronzo adatto agli alimenti
-
 gregtech.material.gtfo_sludge=Melma
 metaitem.food.chum.name=Pappa  
 metaitem.food.chum.tooltip=La pappa è fantastica!  
@@ -465,7 +447,6 @@ metaitem.food.fish_rotten.name=Pesce Marcio
 metaitem.food.fish_rotten.tooltip=Avresti dovuto salarlo a dovere  
 metaitem.food.meat_rotten.name=Carne Marcia  
 metaitem.food.meat_rotten.tooltip=Avresti dovuto salarlo a dovere 
-
 metaitem.food.banana.name=Banana  
 metaitem.food.orange.name=Arancia  
 metaitem.food.grapes.name=Uva  
@@ -476,14 +457,12 @@ metaitem.food.orange.tooltip=Bisogna aranciarsi un po'
 metaitem.food.grapes.tooltip=Hanno fatto un intervento chirurgico su un acino d'uva  
 metaitem.food.mango.tooltip=Mango io!  
 metaitem.food.apricot.tooltip=L'unica cosa migliore di questa è un'Albicocca in acciaio damascato  
-
 metaitem.food.peeled_banana.name=Banana Sbucciata  
 metaitem.component.banana_peel.name=Buccia di Banana  
 metaitem.potassium_perchlorate_dust.name=Perclorato di Potassio  
 metaitem.ammonium_perchlorate_dust.name=Perclorato di Ammonio  
 metaitem.burnt_banana_peel_dust.name=Polvere di Buccia di Banana Bruciata  
 gregtech.material.gtfo_alkaline_extract=Estratto Alcalino  
-
 metaitem.food.vodka.name=Vodka  
 metaitem.food.vodka.tooltip=Dalla Russia, distillata  
 metaitem.food.leninade.name=Leninata  
@@ -492,13 +471,10 @@ gregtech.material.gtfo_potato_juice=Succo di Patata
 gregtech.material.gtfo_vodka=Vodka  
 gregtech.material.gtfo_leninade=Leninata  
 gregtech.material.gtfo_white_wine=Vino Bianco  
-
 gregtech.material.gtfo_sodium_carbonate_solution=Soluzione di Carbonato di Sodio
-
 gregtechfoodoption.machine.electric_baking_oven.tooltip.1=Esegue ricette solo se è a temperatura
 gregtechfoodoption.machine.electric_baking_oven.tooltip.2=Il costo §aEU/t§7 è esponenzialmente proporzionale alla temperatura.
 gregtechfoodoption.machine.electric_baking_oven.tooltip.3=Estendi il multiblock di §a1§7 blocco per eseguire 1 ricetta in più alla volta.
-
 gregtechfoodoption.machine.microwave.lv.name=Forno a Microonde Basilare
 gregtechfoodoption.machine.microwave.mv.name=Forno a Microonde Avanzato 
 gregtechfoodoption.machine.microwave.hv.name=Forno a Microonde Avanzato II
@@ -525,7 +501,6 @@ gregtechfoodoption.machine.microwave.uev.tooltip=Inserisci un lingotto per Dogec
 gregtechfoodoption.machine.microwave.uiv.tooltip=Inserisci un lingotto per Dogecoin gratuiti
 gregtechfoodoption.machine.microwave.uxv.tooltip=Inserisci un lingotto per Dogecoin gratuiti
 gregtechfoodoption.machine.microwave.opv.tooltip=Inserisci un lingotto per Dogecoin gratuiti
-
 recipemap.microwave.name=Forno a Microonde
 metaitem.food.mushroom_stew.hot.name=Zuppa di Funghi calda
 metaitem.food.mushroom_stew.hot.tooltip=SCOTTA!
@@ -533,88 +508,69 @@ metaitem.food.beetroot_soup.hot.name=Zuppa di Barbabietole calda
 metaitem.food.beetroot_soup.hot.tooltip=Ora della zuppa
 metaitem.food.rabbit_stew.hot.name=Stufato di coniglio
 metaitem.food.rabbit_stew.hot.tooltip=Hai appena mangiato un coniglio, sentiti fiero.
-
 gregtech.material.gtfo_perchloric_acid=Acido Perclorico  
 gregtech.material.gtfo_chloroauric_acid=Acido Cloroaurico  
-
 metaitem.mashed_potato_dust.name=Purè di Patate  
 metaitem.mashed_potato_dust.tooltip=Un ottimo materiale per la creazione di utensili  
 gregtech.material.gtfo_rabbit_stew=Stufato di Coniglio  
-
-gregtechfoodoption.tooltip.potion.each=   §e%s %s§r per §c%s§r tick con una probabilità del §a%s%%§r di accadere  
+gregtechfoodoption.tooltip.potion.each=§e%s %s§r per §c%s§r tick con una probabilità del §a%s%%§r di accadere  
 gregtechfoodoption.tooltip.potion.header=§6Contiene effetti:  
-
 metaitem.tough_meat_dust.name=Carne Dura  
 metaitem.cooked_meat_ingot.name=Lingotto di Carne Cotta  
 metaitem.component.scrap_meat.name=Scarti di Carne  
 metaitem.component.scrap_meat.tooltip=Le parti che la gente di solito non mangia, ma io non giudico  
-
 metaitem.component.skewer.name=Spiedo  
 metaitem.component.skewer.tooltip=Sì, lo mangeresti sicuramente!  
 metaitem.fat_ingot.name=Grasso Animale  
 metaitem.fat_ingot.tooltip=Forse dovresti andare in palestra?!  
-
 metaitem.kubide_meat_dust.name=Ingredienti per Koobideh  
 metaitem.kubide_meat_dust.tooltip=Delizioso al punto giusto!!  
 metaitem.component.kebab.kubide.name=Kebab Koobideh Crudo  
 metaitem.component.kebab.kubide.tooltip=Ha bisogno di un po' di carbonio!  
 metaitem.food.kebab.kubide.name=Kebab Koobideh  
 metaitem.food.kebab.kubide.tooltip=Perfetto con l'Ayran!  
-
 metaitem.component.kebab.meat.name=Carne di Kebab Cruda  
 metaitem.food.kebab.meat.name=Carne di Kebab  
 metaitem.food.kebab.meat.tooltip=Conosciuta anche come Chenge  
-
 metaitem.barg_meat_dust.name=Ingredienti per Barg  
 metaitem.barg_meat_dust.tooltip=Sai che significa Carne Foglia... vero?  
 metaitem.component.kebab.barg.name=Kebab Barg Crudo  
 metaitem.component.kebab.barg.tooltip=Barg bargi Bargiun Bargi  
 metaitem.food.kebab.barg.name=Kebab Barg  
 metaitem.food.kebab.barg.tooltip=Non è solo un Koobideh con... meno passaggi?!  
-
 metaitem.component.kebab.onion.name=Kebab di Cipolle Infilzate  
 metaitem.component.kebab.onion.tooltip=Infilza le tue lacrime!  
 metaitem.food.kebab.onion.name=Kebab di Cipolle  
 metaitem.food.kebab.onion.tooltip=Guarda chi sta piangendo ora?!  
-
 metaitem.component.kebab.tomato.name=Kebab di Pomodori Infilzati  
 metaitem.component.kebab.tomato.tooltip=No, non il signor Pomodoro!!  
 metaitem.food.kebab.tomato.name=Pomodoro Kebab  
 metaitem.food.kebab.tomato.tooltip=È il nuovo Messia  
-
 metaitem.component.kebab.carrot.name=Carote sullo Spiedo Kebab  
 metaitem.food.kebab.carrot.name=Kebab di Carote Grigliate  
 metaitem.food.kebab.carrot.tooltip=Big Chungus  
-
 metaitem.component.kebab.fat.name=Kebab di Grasso di Coda Crudo  
 metaitem.component.kebab.fat.tootip=Cucinalo per renderlo succoso!  
 metaitem.food.kebab.fat.name=Kebab di Grasso di Coda  
 metaitem.food.kebab.fat.tooltip=Donbe è davvero salutare!  
-
 metaitem.component.kebab.chum.name=Kebab di Pappa sullo Spiedo  
 metaitem.component.kebab.chum.tooltip=Non è granché...  
 metaitem.food.kebab.chum.name=Kebab di Pappa
 metaitem.food.kebab.chum.tooltip=Sì, è Papposo  
-
 metaitem.food.kebab.chum.bucket.name=Miscela Kebab Pappa nel Secchio  
 metaitem.food.kebab.chum.bucket.tooltip=Questo non è il Chum Bucket...  
-
 metaitem.food.kebab.soltani.name=Kebab e Soltani!  
 metaitem.food.kebab.soltani.tooltip=EV Kebab (Tensione in ingresso: Delizioso!)  
-
 metaitem.food.juice.apple.name=Succo di Mela  
 metaitem.food.juice.orange.name=Succo d'Arancia  
 metaitem.food.juice.apple.tooltip=perché le mele di Minecraft sono gialle?  
 metaitem.food.juice.orange.tooltip=AcquaPortoghese  
-
 gregtech.material.gtfo_stearin=Grasso Liquido (Stearina)  
 gregtech.material.gtfo_stearic_acid=Acido Stearico  
 gregtech.material.gtfo_sodium_stearate=Stearato di Sodio (Sapone)  
 gregtech.material.gtfo_citric_acid=Acido Citrico  
-
 item.gt.tool.butchery_knife.hv.name=%s Macellaio Elettrico (HV)  
 item.gt.tool.butchery_knife.hv.tooltip=§9Disintegratore di Mob §c4000  
-
 enchantment.level.0=I
 enchantment.level.7=VII
 enchantment.level.8=VIII
@@ -625,7 +581,6 @@ enchantment.level.29=XXVIV
 enchantment.level.49=XLVIV
 enchantment.level.84=LXXXIV
 enchantment.level.146=CXLVI
-
 gregtechfoodoption.chat.food_buff=Vedendo il tuo progresso, cominci a voler provare nuovi cibi.
 
 # Mob Age Sorter
@@ -633,7 +588,6 @@ gregtechfoodoption.machine.mob_age_sorter.lv.name=Smistatore per età di Mob Bas
 gregtechfoodoption.machine.mob_age_sorter.mv.name=Smistatore per età di Mob Avanzato  
 gregtechfoodoption.machine.mob_age_sorter.hv.name=Smistatore per età di Mob Avanzato II
 gregtechfoodoption.machine.mob_age_sorter.ev.name=Smistatore per età di Mob Avanzato III
-
 gregtechfoodoption.machine.mob_age_sorter.range=Moves animals in a %sx%s square in front
 
 # Mob Exterminator
@@ -641,7 +595,6 @@ gregtechfoodoption.machine.mob_exterminator.lv.name=Basic Mob Exterminator
 gregtechfoodoption.machine.mob_exterminator.mv.name=Advanced Mob Exterminator
 gregtechfoodoption.machine.mob_exterminator.hv.name=Advanced Mob Exterminator II
 gregtechfoodoption.machine.mob_exterminator.ev.name=Advanced Mob Exterminator III
-
 gregtechfoodoption.machine.mob_exterminator.tooltip="Uccide" (fa 40 HP di danno) 4 mob al secondo in un quadrato 9x9 con Saccheggio %s
 gregtechfoodoption.machine.mob_exterminator.tooltip.consumption=Consuma %s EU per uccisione
 gregtechfoodoption.machine.mob_exterminator.tooltip.nitrous=Può uccidere fino a 12 mob in più al secondo quando potenziato con l'Ossido di Azoto
@@ -660,16 +613,12 @@ gregtechfoodoption.machine.mob_extractor.uev.name=Estrattore di Mob Hi-Tech II
 gregtechfoodoption.machine.mob_extractor.uiv.name=Estrattore di Mob Hi-Tech III
 gregtechfoodoption.machine.mob_extractor.uxv.name=Estrattore di Mob Hi-Tech IV
 gregtechfoodoption.machine.mob_extractor.opv.name=Estrattore di Mob Leggendario
-
 gregtechfoodoption.machine.mob_extractor.tooltip=L'estrazione delle essenze raggiunge l'età elettrica
-
 recipemap.mob_extractor.name=Estrattore Mob
 mob_extractor.player_name=Giocatore
-
 gregtechfoodoption.gui.mob_age_sorter_mode.disabled=Only moves adults: Fai click per muovere solo i piccoli
 gregtechfoodoption.gui.mob_age_sorter_mode.enabled=Only moves children: Fai click per muovere solo gli adulti
 gregtechfoodoption.recipe.accepted_mobs_on_top=Richiede un/una %s sopra di esso
-
 metaitem.seed.onion.name=Semi di cipolla
 metaitem.component.soybean.name=Soia
 metaitem.seed.unknown.name=Semi indeterminati GTFO
@@ -678,9 +627,7 @@ metaitem.seed.soy.name=Semi di soia
 metaitem.seed.tomato.name=Semi di pomodoro
 metaitem.seed.grape.name=Semi d'uva
 metaitem.seed.cucumber.name=Semi di cetriolo
-
 metaitem.seed.onion.tooltip=Per far crescere Cipollino
-
 death.attack.extermination=%s è stato sterminato/a
 death.attack.extraction=Gli organi di %s sono stati estratti
 death.attack.cyanide=%s ha annusato delle mandorle amare
@@ -696,13 +643,10 @@ gregtechfoodoption.machine.farmer.tooltip.flavor=Usa tecnologie LASER nell'agric
 gregtechfoodoption.machine.farmer.tooltip.consumption=Consuma %,d EU/t per operazione
 gregtechfoodoption.machine.farmer.tooltip.working=Agisce su un campo 9x9 davanti ad esso
 gregtechfoodoption.machine.farmer.tooltip.speed=Opera su un blocco ogni %d Tick
-
 metaitem.sodium_perchlorate_dust.name=Perclorato di sodio
 metaitem.sodium_chlorate_dust.name=Clorato di Sodio
-
 itemGroup.gregtechfoodoption.main=GregTech Food Option
 itemGroup.gregtechfoodoption.food=GregTech Food Option Cibi
-
 gregtechfoodoption.leaves.banana.name=Foglie di Banano  
 gregtechfoodoption.log.banana.name=Fusto di Banano  
 gregtechfoodoption.sapling.banana.name=Germoglio di Banano  
@@ -743,7 +687,6 @@ gregtechfoodoption.leaves.coconut.name=Foglie di Cocco
 gregtechfoodoption.log.coconut.name=Legno di Cocco  
 gregtechfoodoption.sapling.coconut.name=Germoglio di Cocco  
 gregtechfoodoption.planks.coconut.name=Assi di Cocco  
-
 metaitem.food.ice_cream.plain.name=Gelato Semplice  
 metaitem.food.ice_cream.plain.tooltip=Sa di ghiaccio, immagino  
 metaitem.food.ice_cream.chum.name=Gelato alla Pappa  
@@ -766,7 +709,6 @@ metaitem.food.ice_cream.chip.name=Gelato alle Patatine
 metaitem.food.ice_cream.chip.tooltip=https://tenor.com/view/cat-swim-in-milk-cat-kitty-milk-milk-cat-gif-23473453  
 metaitem.food.ice_cream.rainbow.name=Gelato Arcobaleno  
 metaitem.food.ice_cream.rainbow.tooltip=Assapora l'intero Arcobaleno  
-
 gregtech.material.gtfo_skimmed_milk=Latte Scremato  
 gregtech.material.gtfo_cream=Panna  
 gregtech.material.gtfo_soy_lecithin=Lecitina di Soia  
@@ -776,7 +718,6 @@ gregtech.material.gtfo_soybean_oil=Olio di Soia Raffinato
 gregtech.material.gtfo_pasteurized_milk=Latte Pastorizzato  
 gregtech.material.gtfo_milk_colloid=Colloide di Latte  
 gregtech.material.gtfo_ice_cream_mixture=Miscela per Gelato  
-
 metaitem.vanillylmandelic_acid_dust.name=Acido Vanillilmandelico  
 metaitem.vanilglycolic_acid_dust.name=Acido Vanilglicolico  
 metaitem.vanillin_dust.name=Vanillina  
@@ -784,14 +725,12 @@ gregtech.material.gtfo_guaiacol=Guaiacolo
 gregtech.material.gtfo_glyoxal=Glicossale  
 gregtech.material.gtfo_acetaldehyde=Acetaldeide  
 gregtech.material.gtfo_glyoxylic_acid=Acido Glicossilico  
-
 gregtech.material.gtfo_melon_extract=Estratto di Melone  
-
 metaitem.component.gelatin.name=Gelatina  
 metaitem.food.chocolate.name=Cioccolato al Latte  
 metaitem.food.graham_cracker.name=Biscotto Graham  
 metaitem.food.marshmallow.name=Marshmallow  
-metaitem.food.smore.one.name=S'mingotto di S'more   
+metaitem.food.smore.one.name=S'mingotto di S'more
 metaitem.food.smore.two.name=DoppioS'mingotto di S'more   
 metaitem.food.smore.four.name=QuadS'mingotto QuadriS'more  
 metaitem.component.cocoa_nibs.name=Granella di Cacao  
@@ -807,10 +746,8 @@ metaitem.food.coffee.energized.name=Tazza di Caffè Energizzante
 metaitem.crop.coffee.name=Drupa di Caffè  
 metaitem.seed.coffee.name=Seme di Caffè  
 metaitem.component.unfired_cup.name=Tazza Cruda  
-
 entity.Snowman.name=Golem di Neve  
 gregtechfoodoption.potion.snowgolemspawner=Protezione Neve  
-
 gregtechfoodoption.machine.greenhouse.name=Serra  
 recipemap.greenhouse.name=Serra  
 gregtech.material.gtfo_rainbow_sap=Linfa Arcobaleno  
@@ -820,11 +757,9 @@ metaitem.arsenic_trioxide_dust.name=Triossido di Arsenico
 metaitem.cupric_hydrogen_arsenite_dust.name=Verde di Scheele  
 tile.transparent_casing.greenhouse_glass.name=Vetro per Serra  
 gregtech.multiblock.not_enough_sun=Il tetto non riceve abbastanza luce solare e le ricette saranno eseguite a metà velocità  
-
 gregtechfoodoption.machine.greenhouse.tooltip.1=Simula la crescita degli alberi al suo interno.  
 gregtechfoodoption.machine.greenhouse.tooltip.2=Richiede il doppio del tempo se il tetto è bloccato o durante la notte.  
 gregtechfoodoption.machine.greenhouse.tooltip.3=Resistente alle intemperie!  
-
 gregtech.material.gtfo_beer_batter=Pastella alla Birra  
 metaitem.puff_pastry_plate.name=Impasto Sfogliato  
 metaitem.laminated_dough_plate.name=Impasto Laminato  
@@ -859,7 +794,6 @@ gregtech.material.gtfo_wheaty_juice=Succo di Grano
 gregtech.material.gtfo_poor_quality_beer=Birra di Scarsa Qualità  
 gregtech.material.sodium_sulfate=Solfato di Sodio  
 gregtech.material.gtfo_hydrogen_cyanide=Cianuro di Idrogeno  
-
 gregtechfoodoption.fluid.fertilizer=§2%d%% efficace come fertilizzante per irrigatori
 metaitem.cover.sprinkler.name=Irrigatore
 metaitem.cover.sprinkler.tooltip=Come §4copertura rivolta verso il basso§7, spruzza fluidi su un'area di colture 9x9/nLascia §63 blocchi di spazio§7 tra questo e il terreno/nFai clic sinistro con un mazzuolo per disattivare le particelle
@@ -868,11 +802,9 @@ gregtech.material.gtfo_rubber_sap=Linfa di Gomma
 gregtech.material.gtfo_blood=Sangue
 gregtech.material.gtfo_fertilizer_solution=Soluzione Fertilizzante
 gregtechfoodoption.recipe.cause_damage=Causa %d danni al mob
-
 gregtech.material.gtfo_nilk=Natte
 metaitem.food.nilk.name=Natte
 metaitem.food.nilk.tooltip=Da non confondere con lo Nabaione
-
 gregtechfoodoption.tooltip.food.lacing=§2Potrebbe essere mescolato con sostanze chimiche divertenti
 gregtechfoodoption.fluid.lacing=§2Può essere utilizzato per mescolare oggetti con 100 mB nel confezionatore
 gregtechfoodoption.cyanide.1=§cTi senti davvero nauseato...
@@ -896,9 +828,7 @@ metaitem.food.caplet.chorus.name=Capsula di Chorus Fermentato
 metaitem.food.caplet.chorus.tooltip=Il colore è appena cambiato?
 metaitem.food.caplet.vibrant.name=Capsula Vivace
 metaitem.food.caplet.vibrant.tooltip=Non ha proprio lo stesso sapore del pentaalogenuro di polimoscovio
-
 metaitem.iv_bag.name=Sacca EV
-
 gregtech.material.gtfo_acetic_anhydride=Anidride Acetica
 gregtech.material.gtfo_heated_water=Acqua Calda
 gregtech.material.gtfo_gelatin_solution=Soluzione di Gelatina
@@ -907,21 +837,18 @@ gregtech.material.gtfo_sodium_hypochlorite=Ipoclorito di Sodio
 gregtech.material.gtfo_nitrophenols=Nitrofenoli
 gregtech.material.gtfo_aniline=Anilina
 gregtech.material.paracetamol=Paracetamolo
-
 gregtechfoodoption.crop.agricraft.info=Hey! So che lo stai leggendo, ora. Questa pianta fa cose. Probabilmente è importante. Ah si, scusa per la pagina rotta; sembra *troppo* difficile da sistemare. E si, questa tooltip non è specifica ad alcuna pianta di GTFO.
 metaitem.food.plutonium_241_caplet.name=Capsula di Plutonio-241
 metaitem.food.plutonium_241_caplet.tooltip=Non Mangiare (per favore)
 metaitem.component.iv_bag.name=Sacca IV
 metaitem.component.iv_bag.tooltip=Un aggiornamento diretto alla Sacca EV
 gregtechfoodoption.hello_buildcraft=Una mod (probabilmente BuildCraft) si sta comportando in modo stupido
-
 metaitem.food.lasagna.chum.name=Lasagna di Chum
 metaitem.food.lasagna.chum.tooltip="chumagna" - serenibyss, il saggio
 gregtechfoodoption.tooltip.food.duration=§aRichiede §f%s§a tick per essere mangiato (rispetto ai normali 32)
 gregtechfoodoption.potion.amplifier=Amplificazione dell'Effetto
 gregtechfoodoption.potion.lengthener=Prolungatore dell'Effetto
 gregtechfoodoption.potion.venting=Ventilazione
-
 metaitem.shredded_parmesan_dust.name=Formaggio Parmigiano-Reggiano Grattugiato
 metaitem.black_pepper_dust.name=Pepe Nero
 metaitem.nutmeg_dust.name=Noce Moscata Macinata
@@ -1022,7 +949,6 @@ metaitem.food.white_wine.name=Vino Bianco
 metaitem.food.red_wine.name=Vino Rosso
 metaitem.food.white_grapes.name=Uva bianca
 metaitem.food.white_grapes.tooltip=Hanno fatto un intervento chirurgico su un acino d'uva (bianca)
-
 gregtech.material.gtfo_egg=Uovo
 gregtech.material.gtfo_unpasteurized_skimmed_milk=Latte Scremato Non Pastorizzato
 gregtech.material.gtfo_parmigiano_reggiano_starter=Starter per Parmigiano-Reggiano
@@ -1047,7 +973,6 @@ gregtech.material.gtfo_alcoholic_red_grape_juice=Succo Alcolico di Uva Rossa
 gregtech.material.gtfo_red_wine=Vino Rosso
 gregtech.material.gtfo_bolognese_sauce=Sugo alla Bolognese
 gregtech.material.gtfo_tomato_bolognese_sauce=Sugo alla Bolognese al Pomodoro
-
 gregtechfoodoption.machine.multicooker.lv.name=Multicooker Basilare
 gregtechfoodoption.machine.multicooker.mv.name=Multicooker Avanzato
 gregtechfoodoption.machine.multicooker.hv.name=Multicooker Avanzato II
@@ -1075,13 +1000,10 @@ gregtechfoodoption.machine.multicooker.uiv.tooltip=Pentola a pressione del futur
 gregtechfoodoption.machine.multicooker.uxv.tooltip=Pentola a pressione del futuro
 gregtechfoodoption.machine.multicooker.opv.tooltip=Pentola a pressione del futuro
 recipemap.multicooker.name=Multicooker
-
 metaitem.food.emergency_rations.name=Razioni d'emergenza
 metaitem.food.emergency_rations.tooltip=La vera emergenza è aprirle in primis
-
 metaitem.lithium_oxide_dust.name=Ossido di Litio
 metaitem.lithium_carbonate_dust.name=Carbonato di Litio
-
 tile.gtfo_crop_coffee.name=Caffè
 tile.gtfo_crop_tomato.name=Pomodori
 tile.gtfo_crop_onion.name=Cipolle
@@ -1101,7 +1023,6 @@ tile.gtfo_crop_black_pepper.name=Pepe Nero
 tile.gtfo_crop_rice.name=Riso
 tile.gtfo_crop_white_grape.name=Uva Bianca
 tile.gtfo_crop_cotton.name=Cotone
-
 lacing.item_list.name=Ricetta di Contaminazione
 gregtechfoodoption.lacing.info.1=Applica effetto:
 gregtechfoodoption.lacing.info.2=Dura %s tick
@@ -1109,7 +1030,6 @@ gregtechfoodoption.potion.cyanidepoisoning=Avvelenamento da Cianuro
 gregtechfoodoption.potion.antischizo=Farmaco Antischizofrenia
 gregtechfoodoption.potion.lungcancer=Cancro ai Polmoni
 eating.output.name=Consumo
-
 metaitem.component.pelmeni_uncooked.name=Pelmeni crudo
 metaitem.component.pelmeni_uncooked_seasoned.name=Pelmeni crudo aromatizzato
 metaitem.food.pelmeni.name=Pelmeni
@@ -1118,12 +1038,9 @@ metaitem.food.pelmeni_seasoned.name=Pelmeni aromatizzato
 metaitem.food.pelmeni_seasoned.tooltip=Con contorno di panna acida
 gregtech.material.gtfo_sour_cream=Panna acida
 gregtech.material.gtfo_lactic_acid_bacteria=Batteri dell'acido lattico
-
 gregtechfoodoption.sprinkler.particles.on=Particelle dell'irrigatore attivate.
 gregtechfoodoption.sprinkler.particles.off=Particelle dell'irrigatore disattivate.
-
 gt.tool.class.rolling_pin=Mattarello
-
 metaitem.food.etirps_cranberry.tooltip=Vuoi una Etirps Cranberry?
 metaitem.food.berry_medley.tooltip=Proprio come l'avrebbe fatto Rémy
 metaitem.food.berry.blueberry.name=Mirtillo
@@ -1152,20 +1069,15 @@ gregtech.material.gtfo_cranberry_extract=Estratto di Mirtillo Rosso Americano
 gregtech.material.gtfo_etirps_cranberry=Etirps Cranberry
 gregtech.material.gtfo_cranberry_sludge=Poltiglia di Mirtillo Rosso Americano
 gregtech.material.gtfo_cranberry_soda_syrup=Sciroppo per Soda al Mirtillo Rosso Americano
-
 gregtechfoodoption.berry.description.0=§4Cresce molto lentamente da solo!
 gregtechfoodoption.berry.description.1=§bCresce più velocemente nei livelli più alti
 gregtechfoodoption.berry.description.2=Posiziona §5tre§r cespugli di bacche mature del livello precedente nel 3x3 centrato sul cespuglio per passare al livello successivo
 gregtechfoodoption.berry.description.3=§4Il 3x3 centrato sul cespuglio non deve essere riempito!
-
 gregtechfoodoption.blocked=Blocca un cespuglio a %s (%s totale).
-
 metaitem.component.coconut.name=Noce di cocco
 metaitem.component.coconut.tooltip=Un killer a sangue freddo
-
 gregtechfoodoption.seed.0=§bPuò essere utilizzato come Seme
 gregtechfoodoption.seed.root_crop=§rIl frutto può essere raccolto §4solo§r §4poco prima§r che il seme sia raccoglibile!
-
 gregtechfoodoption.multiblock.kitchen.no_recipe=L'oggetto della ricetta è mancante! (o non è configurato)
 gregtechfoodoption.multiblock.kitchen.buses_full=I Bus di IO degli oggetti sono pieni!
 gregtechfoodoption.multiblock.kitchen.hatches_full=Le Valvole di IO dei fluidi sono piene!
@@ -1174,17 +1086,13 @@ gregtechfoodoption.multiblock.kitchen.machines_not_working=Le macchine richieste
 gregtechfoodoption.multiblock.kitchen.no_ingredients=Mancano degli ingredienti!
 gregtechfoodoption.multiblock.kitchen.probably_fine=Esecuzione delle ricette...
 gregtechfoodoption.multiblock.kitchen.order_complete=Ordine completato!
-
 gregtechfoodoption.multiblock.kitchen.very_dirty=La cucina ha davvero bisogno di una pulizia!
 gregtechfoodoption.multiblock.kitchen.order_size=Dimensione ordine: %s oggetti
 gregtechfoodoption.multiblock.kitchen.dirtiness=Sporcizia: %s DU
 gregtechfoodoption.multiblock.kitchen.increment_order=Aumenta la dimensione dell'ordine di 1
 gregtechfoodoption.multiblock.kitchen.decrement_order=Riduci la dimensione dell'ordine di 1
-
 gregtechfoodoption.fluid.cleaning=Ripulisce §2%s§r DU/L!
-
 gregtechfoodoption.kitchen.recipe.warn=Solo oggetti legati al cibo possono essere posizionati qui!
-
 metaitem.bone_ash_dust.name=Cenere d'Ossa
 metaitem.unfired_porcelain_tile_plate.name=Piastrella in Porcellana Non Cotta
 metaitem.bisque_porcelain_tile_plate.name=Piastrella in Porcellana Biscuit
@@ -1193,15 +1101,12 @@ metaitem.black_glazed_porcelain_tile_plate.name=Piastrella in Porcellana Smaltat
 metaitem.utility.kitchen_recipe.name=Ricetta di Cucina
 metaitem.utility.kitchen_recipe.tooltip=Clic destro per aggiungere ricette GTFO tramite JEI! Funziona con il multiblocco Cucina per ricette §4singleblock§7.
 gregtechfoodoption.kitchen_recipe.final_result=§3Produce %s
-
 gregtechfoodoption.machine.kitchen.tooltip.1=§4Può essere usato solo con JEI
 gregtechfoodoption.machine.kitchen.tooltip.2=Esegue le ricette attraverso la Cucina
 gregtechfoodoption.machine.kitchen.tooltip.3=Piazza le macchine singole sulle piastrelle
 gregtechfoodoption.machine.kitchen.tooltip.4=Qualsiasi dimensione, anche sopra 15x15, è accettabile
 gregtechfoodoption.machine.kitchen.tooltip.5=§4Richiede prodotti per la pulizia per rimanere efficace
-
 gregtechfoodoption.seed.water_crop=Must be placed in one block of water
-
 metaitem.food.pie.fermented_chorus.name=Torta di Chorus Fermentato
 gregtechfoodoption.potion.enhancedchorus=Chorus Potenziato
 metaitem.food.sorbet.apple.name=Sorbetto alla Mela
@@ -1214,12 +1119,10 @@ metaitem.food.sorbet.plain.name=Sorbetto Semplice
 metaitem.food.sorbet.plain.tooltip=Molto buono per i denti, decisamente
 metaitem.food.fermented_chorus.name=Corpo Fermentato
 metaitem.food.antaf.name=Antaf™
-
 metaitem.food.naquadah_chips.name=Patatine al Naquadah
 metaitem.food.naquadah_chips.tooltip=I vostri scienziati erano così preoccupati di sapere se potevano farlo, che non si sono fermati a pensare se avrebbero dovuto.
 metaitem.food.sandwich.vibrant.name=Panino Vibrante
 metaitem.food.sandwich.vibrant.tooltip=Immagino che funzioni abbastanza decentemente come marmellata.
-
 gregtech.material.gtfo_ender_pearl_solution=Soluzione di Perla dell'End
 gregtech.material.gtfo_ender_sugar_solution=Soluzione di Zucchero dell'End
 gregtech.material.gtfo_chorus_juice=Succo di Chorus
